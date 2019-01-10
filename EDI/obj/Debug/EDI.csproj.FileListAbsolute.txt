@@ -1,0 +1,56 @@
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\bin\Debug\EDI.exe.config
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\bin\Debug\EDI.exe
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\bin\Debug\EDI.pdb
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.Form1.resources
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.csproj.GenerateResource.Cache
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.exe
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.pdb
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.EtudientHome.resources
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.Profile.resources
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.Recherche.resources
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.Reclamation.resources
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.Note.resources
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.Emploi.resources
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.ProfHome.resources
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.AddEmploi.resources
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.AdminEtudient.resources
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.AdminPanel.resources
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.Form2.resources
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.Mail.resources
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.Stats.resources
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.Ajouter.resources
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.AjouterLangu.resources
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.AdminLang.resources
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.AdminProf.resources
+C:\Users\Administrateur\Desktop\ISTA\Langage C#\EDI\EDI\obj\Debug\EDI.SupprimerConfirmation.resources
+D:\EDI\EDI\bin\Debug\EDI.exe.config
+D:\EDI\EDI\bin\Debug\EDI.exe
+D:\EDI\EDI\bin\Debug\EDI.pdb
+D:\EDI\EDI\obj\Debug\EDI.csprojResolveAssemblyReference.cache
+D:\EDI\EDI\obj\Debug\EDI.AddEmploi.resources
+D:\EDI\EDI\obj\Debug\EDI.AdminEtudient.resources
+D:\EDI\EDI\obj\Debug\EDI.AdminLang.resources
+D:\EDI\EDI\obj\Debug\EDI.AdminPanel.resources
+D:\EDI\EDI\obj\Debug\EDI.AdminProf.resources
+D:\EDI\EDI\obj\Debug\EDI.Ajouter.resources
+D:\EDI\EDI\obj\Debug\EDI.AjouterLangu.resources
+D:\EDI\EDI\obj\Debug\EDI.Emploi.resources
+D:\EDI\EDI\obj\Debug\EDI.EtudientHome.resources
+D:\EDI\EDI\obj\Debug\EDI.Form1.resources
+D:\EDI\EDI\obj\Debug\EDI.Form2.resources
+D:\EDI\EDI\obj\Debug\EDI.Mail.resources
+D:\EDI\EDI\obj\Debug\EDI.Note.resources
+D:\EDI\EDI\obj\Debug\EDI.ProfHome.resources
+D:\EDI\EDI\obj\Debug\EDI.Profile.resources
+D:\EDI\EDI\obj\Debug\EDI.Properties.Resources.resources
+D:\EDI\EDI\obj\Debug\EDI.Recherche.resources
+D:\EDI\EDI\obj\Debug\EDI.Reclamation.resources
+D:\EDI\EDI\obj\Debug\EDI.Stats.resources
+D:\EDI\EDI\obj\Debug\EDI.SupprimerConfirmation.resources
+D:\EDI\EDI\obj\Debug\EDI.csproj.GenerateResource.Cache
+D:\EDI\EDI\obj\Debug\EDI.csproj.CoreCompileInputs.cache
+D:\EDI\EDI\obj\Debug\EDI.exe
+D:\EDI\EDI\obj\Debug\EDI.pdb
